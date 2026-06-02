@@ -1,0 +1,27 @@
+# Arduino
+*.hex
+*.elf
+*.bin
+build/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+*.suo
+*.user
+*.sdf
+*.opensdf
+
+# Build artifacts
+*.o
+*.a
+*.d
+*.lst
+
