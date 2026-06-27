@@ -20,6 +20,11 @@ Two bracelets pair over Bluetooth Low Energy. A press on one sends a ping; the o
 - Small LiPo battery
 - Custom 3D-printed two-part enclosure
 
+
+## IOS Application
+
+There is no frontend developed for this hardware that is publically avaliable.
+
 ## Status
 
 Working prototype. Multiple enclosure revisions in `Casing/`.
